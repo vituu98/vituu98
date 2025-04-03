@@ -1,21 +1,45 @@
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vituu98&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=vituu98&locale=en&mode=daily&theme=gruvbox&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vituu98&radius=16&theme=gruvbox&area=true&order=5" height="300" alt="activity-graph graph"  />
+<h5 align="left">Sobre Mim<br>Sou Victor, estudante de Análise e Desenvolvimento de Sistemas, determinado a ingressar na área de dados. Estou me dedicando ao aprendizado de Python e SQL, pois sei que essas linguagens são essenciais para manipular e analisar informações de forma eficiente. Cada dia é uma nova oportunidade para aprofundar meus conhecimentos e construir um caminho sólido nesse universo fascinante da tecnologia! 🚀</h5>
+
+###
+
+<h1 align="left">Tecnologias</h1>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
 
 ###
-<!--
-**vituu98/vituu98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h2 align="left">Status</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vituu98&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox_light&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=vituu98&locale=pt-br&mode=daily&theme=gruvbox_light&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/vituu98/vituu98/output/snake.svg" alt="Snake animation" />
+
+###
+
+<h2 align="left">redes sociais</h2>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/victor-rodrigues-0357192ba/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/rodriguuesv/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+</div>
+
+###
