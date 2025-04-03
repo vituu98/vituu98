@@ -1,5 +1,10 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vituu98&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=vituu98&locale=en&mode=daily&theme=gruvbox&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vituu98&radius=16&theme=gruvbox&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
 
+###
 <!--
 **vituu98/vituu98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
