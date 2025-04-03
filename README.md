@@ -1,8 +1,12 @@
-<h5 align="left">Sobre Mim<br>Sou Victor, estudante de Análise e Desenvolvimento de Sistemas, determinado a ingressar na área de dados. Estou me dedicando ao aprendizado de Python e SQL, pois sei que essas linguagens são essenciais para manipular e analisar informações de forma eficiente. Cada dia é uma nova oportunidade para aprofundar meus conhecimentos e construir um caminho sólido nesse universo fascinante da tecnologia! 🚀</h5>
+<h1 align="left">Victor Rodrigues</h1>
 
 ###
 
-<h1 align="left">Tecnologias</h1>
+<p align="center">Olá sou Victor, estudante de Análise e Desenvolvimento de Sistemas, determinado a ingressar na área de dados. Estou me dedicando ao aprendizado de Python e SQL, pois sei que essas linguagens são essenciais para manipular e analisar informações de forma eficiente. Cada dia é uma nova oportunidade para aprofundar meus conhecimentos e construir um caminho sólido nesse universo fascinante da tecnologia! 🚀</p>
+
+###
+
+<h3 align="left">🤖 Linguagens e Tecnologias</h3>
 
 ###
 
@@ -14,22 +18,16 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/vituu98/vituu98/output/snake.svg" alt="Snake animation" />
-
-###
-
-<h2 align="left">redes sociais</h2>
+<h2 align="left">Redes Sociais</h2>
 
 ###
 
 <div align="left">
   <a href="https://www.linkedin.com/in/victor-rodrigues-0357192ba/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://www.instagram.com/rodriguuesv/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
   </a>
 </div>
 
