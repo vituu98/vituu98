@@ -1,9 +1,3 @@
-<div align="right">
-  <img height="150" src="https://img.freepik.com/vetores-premium/vector-de-programador-de-personagens-de-desenhos-animados_1080480-50024.jpg"  />
-</div>
-
-###
-
 <h1 align="center">Victor Rodrigues</h1>
 
 ###
