@@ -14,6 +14,8 @@
 
 ###
 
+<br clear="both">
+
 <img src="https://raw.githubusercontent.com/vituu98/vituu98/output/snake.svg" alt="Snake animation" />
 
 ###
