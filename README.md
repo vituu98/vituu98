@@ -1,4 +1,4 @@
-<h1 align="center">Bem-vindo ao meu perfil GitHub👋 </h1>
+<h1 align="center">Bem-Vindo ao meu perfil do GitHub</h1>
 
 ###
 
@@ -10,7 +10,27 @@
 
 ###
 
-<div align="center">
+<h3 align="left">🛠  Linguagens e Tecnologias</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="mysql logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+</div>
+
+###
+
+<p align="left">📮Entre em Contato</p>
+
+###
+
+<div align="left">
   <a href="https://www.linkedin.com/in/victor-rodrigues-0357192ba/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
@@ -23,20 +43,6 @@
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=vituu98.vituu98&"  />
-</div>
-
-###
-
-<h3 align="left">🛠  Linguagens e Tecnologias</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
 
 ###
